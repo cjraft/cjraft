@@ -1,5 +1,5 @@
 Hey, I'm Jian 👋
-, an AI Agent Engineer & Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+, an AI Agent/Coding Engineer & Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 👨‍💻 **About me**
 
